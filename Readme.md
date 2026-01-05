@@ -12,6 +12,10 @@
 I build **production-grade full-stack systems** that scale with **Docker & Kubernetes** and think with **AI**. My core strength is integrating and synchronizing **OpenAI** and **Claude.ai** across **Python and Node.js**, delivering reliable, observable, and human‑centered software.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 
 ## 🧠 What I Do Best
 - Design **Docker-first architectures** for scalable systems
@@ -154,7 +158,6 @@ I build **production-grade full-stack systems** that scale with **Docker & Kuber
   </a>
 
 </p>
-
 
 <a href="https://drive.google.com/drive/u/0/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_">_</a> 
   </p> 
