@@ -12,7 +12,13 @@
 I build **production-grade full-stack systems** that scale with **Docker & Kubernetes** and think with **AI**. My core strength is integrating and synchronizing **OpenAI** and **Claude.ai** across **Python and Node.js**, delivering reliable, observable, and human‑centered software.
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 GitHub Stats
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-five-blush-54.vercel.app/api?username=oosei25&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+<img height="160" src="https://github-readme-stats-five-blush-54.vercel.app/api/top-langs/?username=oosei25&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
+
+</div>
 
 ---
 
