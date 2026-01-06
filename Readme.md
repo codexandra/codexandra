@@ -10,7 +10,7 @@
 🚀 **Senior Full-Stack & AI Engineer | DevOps-First | Multi‑LLM Integration Specialist**   
 
 I build **production-grade full-stack systems** that scale with **Docker & Kubernetes** and think with **AI**. My core strength is integrating and synchronizing **OpenAI** and **Claude.ai** across **Python and Node.js**, delivering reliable, observable, and human‑centered software.
-
+<!--
 ---
 ## 📈 GitHub Stats
 <div align="center">
@@ -19,7 +19,7 @@ I build **production-grade full-stack systems** that scale with **Docker & Kuber
 <img height="160" src="https://github-readme-stats-five-blush-54.vercel.app/api/top-langs/?username=codexandra&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 
