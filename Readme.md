@@ -1,10 +1,4 @@
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=codexandra&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=codexandra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=codexandra&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotbrainy&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codexandra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+ 
 # 👋 Hi, I'm codexandra!
 
 🚀 **Senior Full-Stack & AI Engineer | DevOps-First | Multi‑LLM Integration Specialist**   
@@ -19,8 +13,8 @@ I build **production-grade full-stack systems** that scale with **Docker & Kuber
 <img height="160" src="https://github-readme-stats-five-blush-54.vercel.app/api/top-langs/?username=codexandra&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
 
 </div>
--->
 ---
+-->
 
 
 ## 🧠 What I Do Best
