@@ -1,6 +1,8 @@
  
 # 👋 Hi, I'm codexandra!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&separator=%3C&lines=while+(+sleeping+)+%7B+money%2B%2B;+%7D)](https://git.io/typing-svg)
+
 🚀 **Senior Full-Stack & AI Engineer | DevOps-First | Multi‑LLM Integration Specialist**   
 
 I build **production-grade full-stack systems** that scale with **Docker & Kubernetes** and think with **AI**. My core strength is integrating and synchronizing **OpenAI** and **Claude.ai** across **Python and Node.js**, delivering reliable, observable, and human‑centered software.
