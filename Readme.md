@@ -1,5 +1,5 @@
  
-# 👋 Hi, I'm codexandr!
+# 👋 codex is better than copilot???
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&separator=%3C&lines=while+(+sleeping+)+%7B+money%2B%2B;+%7D)](https://git.io/typing-svg)
 
