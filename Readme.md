@@ -27,7 +27,9 @@ I build **production-grade full-stack systems** that scale with **Docker & Kuber
 - Develop **Python & Node.js** backends (REST & GraphQL)
 - Automate **CI/CD pipelines** and cloud infrastructure
 
----<h3 align="left">Skillsets</h3>
+---
+
+<h3 align="left">Skillsets</h3>
 <p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
 
   <!-- Frontend Frameworks -->
